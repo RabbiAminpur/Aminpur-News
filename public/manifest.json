@@ -1,0 +1,22 @@
+{
+  "short_name": "Aminpur News",
+  "name": "Aminpur News - Modern Bangla News Portal",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/news-icon/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/news-icon/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#ff0000",
+  "description": "Aminpur News provides the latest news in Bangla."
+}

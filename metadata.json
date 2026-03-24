@@ -1,0 +1,5 @@
+{
+  "name": "Aminpur News",
+  "description": "A modern Bangla news portal with real-time category filtering, dark mode, and PWA support.",
+  "requestFramePermissions": []
+}
